@@ -1,0 +1,14 @@
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\DataAccess.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\MongoDB.Bson.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\MongoDB.Driver.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\MongoDB.Bson.xml
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\MongoDB.Driver.xml
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\obj\Debug\DataAccess.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\obj\Debug\DataAccess.pdb
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\Model.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\DataAccess\bin\Debug\Model.pdb
