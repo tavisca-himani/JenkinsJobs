@@ -1,0 +1,7 @@
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\bin\Debug\Model.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\bin\Debug\Model.pdb
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\obj\Debug\Model.dll
+c:\users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\obj\Debug\Model.pdb
+C:\Users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\hverma\documents\visual studio 2015\Projects\NotificationApplication\Model\bin\Debug\MongoDB.Bson.xml
