@@ -1,6 +1,0 @@
-c:\users\hverma\documents\visual studio 2015\Projects\MissionMars\MissionMars\bin\Debug\MissionMars.exe.config
-c:\users\hverma\documents\visual studio 2015\Projects\MissionMars\MissionMars\bin\Debug\MissionMars.exe
-c:\users\hverma\documents\visual studio 2015\Projects\MissionMars\MissionMars\bin\Debug\MissionMars.pdb
-c:\users\hverma\documents\visual studio 2015\Projects\MissionMars\MissionMars\obj\Debug\MissionMars.csprojResolveAssemblyReference.cache
-c:\users\hverma\documents\visual studio 2015\Projects\MissionMars\MissionMars\obj\Debug\MissionMars.exe
-c:\users\hverma\documents\visual studio 2015\Projects\MissionMars\MissionMars\obj\Debug\MissionMars.pdb
