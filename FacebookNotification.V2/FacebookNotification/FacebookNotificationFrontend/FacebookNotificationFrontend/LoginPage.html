@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="Content/Login.css" rel="stylesheet" />
+    <style>
+        .addUser {
+            text-decoration: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="center">
+
+        <div class="container well ">
+            <h2>Login Form</h2>
+            <label><b>Username</b></label>
+            <input type="text" id="UserName" placeholder="Enter Username" name="uname" required><br />
+
+            <label><b>Password</b></label>
+            <input type="password" id="password" placeholder="Enter Password" name="psw" required><br />
+            <div id="incorrect_Password"></div>
+            <button type="submit" id="Authenticate" class="button_margin">Login</button>
+            <button class="button_margin"><a href="AddUser.html" class="addUser"> SignUp</a></button>
+        </div>
+    </div>
+
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+
+    <script src="Scripts/login.js"></script>
+</body>
+</html>

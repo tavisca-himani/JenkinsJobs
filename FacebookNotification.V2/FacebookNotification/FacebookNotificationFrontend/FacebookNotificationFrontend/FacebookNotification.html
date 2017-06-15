@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="Content/Style.css" rel="stylesheet" />
+    <style>
+       .heading {
+            color: white;
+            padding-left: 15px;
+        }
+        .notificationBar{
+            background-color:#0066ff;
+        }
+        .text_color{
+            color: red;
+            margin-top: -15px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id="notificationBar"></div> <nav class="navbar notificationBar" >
+        <div class="container-fluid ">
+            <div class="navbar-header ">
+                <h1 class="heading">Facebook</h1>
+            </div>
+            <ul class="nav navbar-nav navbar-right notificationBar">
+                <li><button><span class="glyphicon glyphicon-user"></span></button></li>
+                <li><button id="notification" type="button" data-toggle="collapse" data-target="#notification_area"><span class="glyphicon glyphicon-globe"></span><span id="notification_Count" class="text_color"></span></button></li>
+                <li><button><span class="glyphicon glyphicon glyphicon-cog"></span></button></li>
+                <li><button id="logout" class="heading"><span class="glyphicon glyphicon-log-out"></span> Logout</button></li>
+            </ul>
+        </div>
+    </nav>
+    <div id="notification_area" class="collapse" style="overflow-y:auto;height:300px;">
+        <ul class="dropdown-menu" id="dropDown_Notification" role="menu" aria-labelledby="notification"></ul>
+    </div>
+
+    <script src="Scripts/GetNotification.js"></script>
+
+
+</body>
+</html>

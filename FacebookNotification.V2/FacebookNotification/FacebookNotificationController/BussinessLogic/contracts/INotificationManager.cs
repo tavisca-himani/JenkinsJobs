@@ -1,0 +1,18 @@
+﻿using Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BussinessLogic
+{
+    public interface INotificationManager
+    {
+       
+        Task<List<Notification>> GetNotificationFromDatabase(string userName);
+
+        Task<bool> InsertNotificationToDatabase(Notification notification);
+        Task<int> GetUnreadNotificationCountFromDataBase(string userName);
+    }
+}
